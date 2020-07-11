@@ -1,0 +1,11 @@
+# Restricted files
+usr_lib/api_keys.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+__pypackages__/
+*.pyc
