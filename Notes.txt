@@ -1,0 +1,7 @@
+Notes:
+
+YFinance usefule to get historical information about the stocks, they get the information from sources like FRED(Federal Reserve Economic Data), French Data library, World Bank etc
+
+Quandl
+Quandl is a provider of alternative data products for investment professionals, and offers
+an easy way to download data, also via a Python library
